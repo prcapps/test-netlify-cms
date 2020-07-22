@@ -1,0 +1,20 @@
+{
+  "blog": [
+    {
+      "path": "_posts/blog/1999-12-31-lets-party.md",
+      "layout": "blog",
+      "title": "Let's Party",
+      "date": "1999-12-31 11:59:59 -0800",
+      "thumbnail": "/images/prince.jpg",
+      "rating": 5
+    },
+    {
+      "path": "_posts/blog/2020-07-22-test123.md",
+      "layout": "blog",
+      "title": "TEST123",
+      "date": "2020-07-22T15:16:43.732Z",
+      "thumbnail": "/uploads/prc-logo-variation.png",
+      "rating": 1
+    }
+  ]
+}

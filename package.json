@@ -1,0 +1,16 @@
+{
+  "name": "test-netlify-cms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:prcapps/test-netlify-cms.git",
+  "author": "Patrick Conant <patrick@prcapps.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-db": "^0.0.2"
+  },
+  "scripts": {
+    "build": "npm run build:db && npm run build:app",
+    "build:db": "netlify-db create admin output",
+    "build:app": ""
+  }
+}
