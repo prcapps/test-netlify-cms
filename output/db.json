@@ -6,7 +6,26 @@
       "title": "Let's Party",
       "date": "1999-12-31 11:59:59 -0800",
       "thumbnail": "/images/prince.jpg",
-      "rating": 5
+      "rating": 5,
+      "content": "\nThis is the post body, where I write about our last chance to party before the Y2K bug destroys us all.\n"
+    },
+    {
+      "path": "_posts/blog/2020-07-22-test-again.md",
+      "layout": "blog",
+      "title": "TEST AGAIN",
+      "date": "2020-07-22T17:52:19.600Z",
+      "thumbnail": "/uploads/prc-logo-variation.png",
+      "rating": 1,
+      "content": "1sdfasdf asdf adsf asdfff"
+    },
+    {
+      "path": "_posts/blog/2020-07-22-test-new-posts.md",
+      "layout": "blog",
+      "title": "TEST NEW POSTS123",
+      "date": "2020-07-22T17:49:55.236Z",
+      "thumbnail": "/uploads/prc-logo-variation.png",
+      "rating": 1,
+      "content": "asfasdf asdf asdf aasfdsafdfffffsadffsadff"
     },
     {
       "path": "_posts/blog/2020-07-22-test123.md",
@@ -14,7 +33,8 @@
       "title": "TEST123",
       "date": "2020-07-22T15:16:43.732Z",
       "thumbnail": "/uploads/prc-logo-variation.png",
-      "rating": 1
+      "rating": 1,
+      "content": "**afdasfd asdf asdf**\n\n\n\n\n\nasdf asdf adsf\n\n'\n\nasdf asdf \n\nas\n\nfadssfffff"
     }
   ]
 }
