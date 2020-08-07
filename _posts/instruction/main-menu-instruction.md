@@ -1,5 +1,6 @@
 ---
 layout: blog
+id: 1
 title: Main Menu Instruction
 ---
 **How it works**
