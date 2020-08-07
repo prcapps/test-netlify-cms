@@ -10,7 +10,7 @@
   },
   "scripts": {
     "build": "npm run build:db && npm run build:app",
-    "build:db": "netlify-db create admin output",
+    "build:db": "node prc_actions.js",
     "build:app": ""
   }
 }

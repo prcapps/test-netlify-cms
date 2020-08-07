@@ -13,6 +13,7 @@ const markdownSpinner = ora("Adding content from markdown files...");
 
 module.exports = function initConfig(configPath, dbPath, isWatching, dbName) {
   let config;
+  console.log(configPath, dbPath);
   try {
     locateSpinner.stop();
     config = yaml.safeLoad(fs.readFileSync(configPath + "/config.yml", "utf8"));
