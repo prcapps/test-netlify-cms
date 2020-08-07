@@ -1,58 +1,22 @@
 {
-  "blog": [
+  "instruction": [
     {
-      "path": "_posts/blog/1999-12-31-lets-party.md",
+      "path": "_posts/instruction/better-alphabet-instruction.md",
       "layout": "blog",
-      "title": "Let's Party",
-      "date": "1999-12-31 11:59:59 -0800",
-      "thumbnail": "/images/prince.jpg",
-      "rating": 5,
-      "content": "This is the post body, where I write about our last chance to party before the Y2K bug destroys us all.\n\n\n\nTEST123\n\n![asfasdf](/uploads/prc-logo-variation.png \"asdfadsf\")\n\n[PRC Apps](https://www.prcapps.com)\n\n1. A\n\n   Basdfadsf\n\n   C\n2. asdfasdf\n3. asdfasdf"
+      "title": "Better Alphabet Instruction",
+      "content": "**Better Alphabet Instruction**\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, erat vitae condimentum viverra, nibh risus suscipit magna, vel porttitor risus turpis sit amet eros. Nullam erat mi, ultrices nec felis ac, viverra vehicula magna. Nulla sit amet lobortis arcu. Donec consectetur feugiat viverra. Aenean eget risus quam. Pellentesque quis enim non lectus scelerisque commodo id in nisi. Vivamus feugiat ipsum eu augue sollicitudin elementum. Proin tincidunt ligula libero, vel dictum ligula bibendum in. Mauris ultrices ex purus, nec eleifend felis mattis vel. Maecenas fermentum dolor ut urna cursus dapibus.\n\nOrci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed fringilla condimentum tortor vitae rhoncus. Vestibulum consequat diam at arcu tempor aliquet. Fusce at laoreet magna. Mauris libero nisi, rutrum non volutpat ut, condimentum eget magna. Nulla facilisi. Cras convallis porta sem in egestas. Nam turpis orci, aliquet sed purus at, suscipit interdum leo.\n\nPhasellus ultricies euismod odio eget cursus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam sit amet dolor lacus. Aliquam sapien erat, aliquam quis accumsan eu, hendrerit at augue. Donec nec ullamcorper lectus. Donec ornare lacus a dolor pulvinar, ac ultrices diam consequat. Sed vel arcu consectetur arcu rhoncus egestas a id ligula. Vivamus mattis non ex vitae volutpat. Ut mattis, felis a placerat vulputate, eros massa pulvinar urna, imperdiet mollis elit felis ac nunc. Aenean fermentum, nisi ultrices consectetur interdum, quam neque ultricies mauris, a ullamcorper libero dolor sed mauris. Cras interdum tempor odio, non varius quam sodales vitae. Curabitur finibus quam diam, a viverra urna tristique eget. Curabitur convallis efficitur erat, vel pharetra orci iaculis ullamcorper.\n\nCras rutrum rutrum tortor eget ullamcorper. Duis lorem sapien, pretium ut risus quis, malesuada sagittis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis erat in urna aliquam, at elementum neque blandit. Cras quis odio elementum tortor maximus efficitur. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent tincidunt id quam at luctus. Etiam ornare euismod aliquet. Cras convallis sit amet diam et finibus. Phasellus quis nisi eu purus consectetur lobortis et nec neque. Mauris malesuada ex vitae augue commodo blandit. Nullam quis enim at nisi condimentum egestas sed sed est. In eget est vel erat feugiat mattis. Fusce sit amet tellus enim."
     },
     {
-      "path": "_posts/blog/2020-07-22-test-again.md",
+      "path": "_posts/instruction/main-menu-instruction.md",
       "layout": "blog",
-      "title": "TEST AGAIN",
-      "date": "2020-07-22T17:52:19.600Z",
-      "thumbnail": "/uploads/prc-logo-variation.png",
-      "rating": 1,
-      "content": "1sdfasdf asdf adsf asdfff"
+      "title": "Main Menu Instruction",
+      "content": "**How it works**\n\n[Website](https://www.thesecretstories.com)\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, erat vitae condimentum viverra, nibh risus suscipit magna, vel porttitor risus turpis sit amet eros. Nullam erat mi, ultrices nec felis ac, viverra vehicula magna. Nulla sit amet lobortis arcu. Donec consectetur feugiat viverra. Aenean eget risus quam. Pellentesque quis enim non lectus scelerisque commodo id in nisi. Vivamus feugiat ipsum eu augue sollicitudin elementum. Proin tincidunt ligula libero, vel dictum ligula bibendum in. Mauris ultrices ex purus, nec eleifend felis mattis vel. Maecenas fermentum dolor ut urna cursus dapibus.\n\nOrci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed fringilla condimentum tortor vitae rhoncus. Vestibulum consequat diam at arcu tempor aliquet. Fusce at laoreet magna. Mauris libero nisi, rutrum non volutpat ut, condimentum eget magna. Nulla facilisi. Cras convallis porta sem in egestas. Nam turpis orci, aliquet sed purus at, suscipit interdum leo.\n\nPhasellus ultricies euismod odio eget cursus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam sit amet dolor lacus. Aliquam sapien erat, aliquam quis accumsan eu, hendrerit at augue. Donec nec ullamcorper lectus. Donec ornare lacus a dolor pulvinar, ac ultrices diam consequat. Sed vel arcu consectetur arcu rhoncus egestas a id ligula. Vivamus mattis non ex vitae volutpat. Ut mattis, felis a placerat vulputate, eros massa pulvinar urna, imperdiet mollis elit felis ac nunc. Aenean fermentum, nisi ultrices consectetur interdum, quam neque ultricies mauris, a ullamcorper libero dolor sed mauris. Cras interdum tempor odio, non varius quam sodales vitae. Curabitur finibus quam diam, a viverra urna tristique eget. Curabitur convallis efficitur erat, vel pharetra orci iaculis ullamcorper.\n\nCras rutrum rutrum tortor eget ullamcorper. Duis lorem sapien, pretium ut risus quis, malesuada sagittis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis erat in urna aliquam, at elementum neque blandit. Cras quis odio elementum tortor maximus efficitur. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent tincidunt id quam at luctus. Etiam ornare euismod aliquet. Cras convallis sit amet diam et finibus. Phasellus quis nisi eu purus consectetur lobortis et nec neque. Mauris malesuada ex vitae augue commodo blandit. Nullam quis enim at nisi condimentum egestas sed sed est. In eget est vel erat feugiat mattis. Fusce sit amet tellus enim."
     },
     {
-      "path": "_posts/blog/2020-07-22-test-final.md",
+      "path": "_posts/instruction/phonics-instruction.md",
       "layout": "blog",
-      "title": "TEST FINAL",
-      "date": "2020-07-22T17:54:30.244Z",
-      "thumbnail": "/uploads/prc-logo-variation.png",
-      "rating": 1,
-      "content": "asdf afadsf adsf\n\n**asdf**\n\nasdf\n\n[asdf](https://www.prcapps.com)\n\n[](https://www.prcapps.com)asdfasdfasdfas"
-    },
-    {
-      "path": "_posts/blog/2020-07-22-test-new-posts.md",
-      "layout": "blog",
-      "title": "TEST NEW POSTS123",
-      "date": "2020-07-22T17:49:55.236Z",
-      "thumbnail": "/uploads/prc-logo-variation.png",
-      "rating": 1,
-      "content": "asfasdf asdf asdf aasfdsafdfffffsadffsadff"
-    },
-    {
-      "path": "_posts/blog/2020-07-22-test123.md",
-      "layout": "blog",
-      "title": "TEST123",
-      "date": "2020-07-22T15:16:43.732Z",
-      "thumbnail": "/uploads/prc-logo-variation.png",
-      "rating": 1,
-      "content": "**afdasfd asdf asdf**\n\n\n\n\n\nasdf asdf adsf\n\n'\n\nasdf asdf \n\nas\n\nfadssfffff"
-    },
-    {
-      "path": "_posts/blog/2020-08-07-test-again4566.md",
-      "layout": "blog",
-      "title": "TEST AGAIN4566",
-      "date": "2020-08-07T16:40:26.317Z",
-      "thumbnail": "/uploads/prc-logo-variation.png",
-      "rating": 1,
-      "content": "123"
+      "title": "Phonics Instruction",
+      "content": "**Secret Stories Phonics**\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, erat vitae condimentum viverra, nibh risus suscipit magna, vel porttitor risus turpis sit amet eros. Nullam erat mi, ultrices nec felis ac, viverra vehicula magna. Nulla sit amet lobortis arcu. Donec consectetur feugiat viverra. Aenean eget risus quam. Pellentesque quis enim non lectus scelerisque commodo id in nisi. Vivamus feugiat ipsum eu augue sollicitudin elementum. Proin tincidunt ligula libero, vel dictum ligula bibendum in. Mauris ultrices ex purus, nec eleifend felis mattis vel. Maecenas fermentum dolor ut urna cursus dapibus.\n\nOrci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed fringilla condimentum tortor vitae rhoncus. Vestibulum consequat diam at arcu tempor aliquet. Fusce at laoreet magna. Mauris libero nisi, rutrum non volutpat ut, condimentum eget magna. Nulla facilisi. Cras convallis porta sem in egestas. Nam turpis orci, aliquet sed purus at, suscipit interdum leo.\n\nPhasellus ultricies euismod odio eget cursus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam sit amet dolor lacus. Aliquam sapien erat, aliquam quis accumsan eu, hendrerit at augue. Donec nec ullamcorper lectus. Donec ornare lacus a dolor pulvinar, ac ultrices diam consequat. Sed vel arcu consectetur arcu rhoncus egestas a id ligula. Vivamus mattis non ex vitae volutpat. Ut mattis, felis a placerat vulputate, eros massa pulvinar urna, imperdiet mollis elit felis ac nunc. Aenean fermentum, nisi ultrices consectetur interdum, quam neque ultricies mauris, a ullamcorper libero dolor sed mauris. Cras interdum tempor odio, non varius quam sodales vitae. Curabitur finibus quam diam, a viverra urna tristique eget. Curabitur convallis efficitur erat, vel pharetra orci iaculis ullamcorper.\n\nCras rutrum rutrum tortor eget ullamcorper. Duis lorem sapien, pretium ut risus quis, malesuada sagittis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis erat in urna aliquam, at elementum neque blandit. Cras quis odio elementum tortor maximus efficitur. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent tincidunt id quam at luctus. Etiam ornare euismod aliquet. Cras convallis sit amet diam et finibus. Phasellus quis nisi eu purus consectetur lobortis et nec neque. Mauris malesuada ex vitae augue commodo blandit. Nullam quis enim at nisi condimentum egestas sed sed est. In eget est vel erat feugiat mattis. Fusce sit amet tellus enim."
     }
   ]
 }
