@@ -27,4 +27,4 @@ Select the "Random Play" option to play random letter sounds and then tap on cor
 
 Remember that the goal of the Better Alphabet™ is is to strengthen the critical connections between the sounds letters make, and the symbols that represent them. This helps beginning (and struggling) readers and writers to move quickly from “sound to symbol” (for decoding/reading) and “symbol to sound” (for encoding/spelling). Using music to engage muscle memory helps to build strength, stamina and speed for later reading and writing. 
 
-For more Secrets visit [www.TheSecretStories.com](https://www.TheSecretStories.com).
+***For more Secrets visit [www.TheSecretStories.com](https://www.TheSecretStories.com).***
