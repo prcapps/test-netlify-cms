@@ -7,6 +7,6 @@ title: Main Menu Instruction
 
 [Website](https://www.thesecretstories.com)
 
-Select the Better Alphabet(TM) for individual letter sound practice, or the Secret Stories(R) Phonics for reading/spelling patterns. 
+Learn the individual letters and sounds fast with the Better Alphabet, and discover the "secret" sounds that letters make when they get together with the Secret Stories!  
 
 This app is most effective when used in conjunction with the Secret Stories(R) Kit (https://www.TheSecretStories.com).
