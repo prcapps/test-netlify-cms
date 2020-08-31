@@ -13,6 +13,8 @@ Select this option to learn individual letters and sounds fast and strengthen th
 
 Select this option to learn the "secret" sounds that letters make when they get together, and use the sound pictures to help remember the phonics sounds and spelling for independent reading and writing! 
 
+- - -
 
+***This app is best used with the [Secret Stories Kit (book, posters & musical brainteaser download).](https://www.thesecretstories.com/buy/)***  
 
-This app is most effective when used in conjunction with the Secret Stories(R) Kit (https://www.TheSecretStories.com).
+![Secret Stories Phonics Classroom](/uploads/app-pic.001.jpeg "phonics classroom pic - need to be protected")
