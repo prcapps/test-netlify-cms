@@ -15,6 +15,6 @@ Select this option to learn the "secret" sounds that letters make when they get 
 
 - - -
 
-***This app is best used with the [Secret Stories Kit (book, posters & musical brainteaser download).](https://www.thesecretstories.com/buy/)***  
+***This app is best used with the [Secret Stories Classroom Kit](https://www.thesecretstories.com/product/decorative-squares-classroom-kit/) OR [Home/Parent Bundle.](https://www.thesecretstories.com/product/remote-learning-parent-bundle/)***  
 
 ![Secret Stories Phonics Classroom](/uploads/app-pic.001.jpeg "phonics classroom pic - need to be protected")
