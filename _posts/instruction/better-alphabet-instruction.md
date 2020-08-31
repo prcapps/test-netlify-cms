@@ -21,16 +21,10 @@ PLAY SOUND OPTION:\
 Tap on any letter to hear the letter name and sound. 
 
 RANDOM PLAY OPTION:\
-Select the "Random Play" option to play random letter sounds and then tap on corresponding letter. If the correct letter is selected within 5 second, it will "glow and grow" and a bell sound play. If the wrong letter/letters are selected, nothing will happen until the 5 second time limit has expired, and then the correct letter will "glow and grow" and the correct sound will be played. (The same will occur if no letter is selected.)  \
-\
-Letter Runs & Blending Brainteasers
+Select the "Random Play" option to play random letter sounds and then tap on corresponding letter. If the correct letter is selected within 5 second, it will "glow and grow" and a bell sound play. If the wrong letter/letters are selected, nothing will happen until the 5 second time limit has expired, and then the correct letter will "glow and grow" and the correct sound will be played. (The same will occur if no letter is selected.)  
 
-Within a week or two after beginning to sing the *Better Alphabet™*, you can raise the bar with the *Letter Runs* as a fun challenge! For learners who already know the individual letters and sounds, you can jump right in and start “playing” with the blending brainteasers! These can be sung in small snippets of time, as they are not really songs, but reading and writing exercises set to music! They are most effective when practiced in spontaneous fashion during moments of downtime— waiting for lunch, waiting for the bus, etc..
+- - -
 
-These random moments of downtime throughout the day can really add up, and challenging kids with musical brain teasers that mimic reading and writing is a great way to “milk” their maximum value! Just remember that the goal of these exercises is to continue “raising the bar” for deeper skill-ownership, so you want to continue to “mix it up” by plugging-in different letters, sounds, and Secret phonics patterns, so as to constantly alter how they are sung!
+Remember that the goal of the Better Alphabet™ is is to strengthen the critical connections between the sounds letters make, and the symbols that represent them. This helps beginning (and struggling) readers and writers to move quickly from “sound to symbol” (for decoding/reading) and “symbol to sound” (for encoding/spelling). Using music to engage muscle memory helps to build strength, stamina and speed for later reading and writing. 
 
-### Stream or Download
-
-Click on the track title to expand the media player. You can either listen to the track, or download it. Please note the”talking points” throughout to help guide you through the musical exercises.
-
-The purpose of these “Blending Brainteasers” is strengthen the connection between the sounds letters make and the symbols (letter/letter patterns) that represent them. The goal is to increase automaticity for moving quickly from “sound to symbol” (for decoding/reading) and “symbol to sound” (for encoding/writing). Using musical exercises to mimic the decoding and encoding process helps to build strength, stamina and speed for easy and effortless reading and writing.
+For more Secrets visit [www.TheSecretStories.com](https://www.TheSecretStories.com).
