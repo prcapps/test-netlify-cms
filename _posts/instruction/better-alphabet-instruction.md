@@ -1,7 +1,7 @@
 ---
 layout: blog
 id: 2
-title: Better Alphabet™ Instructions
+title: "Better Alphabet™ "
 ---
 ##### ***Strengthening "Sound-Symbol" Connections in the Brain***
 
