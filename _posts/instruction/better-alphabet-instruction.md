@@ -23,9 +23,8 @@ Tap on any letter to hear the letter name and sound.
 RANDOM PLAY OPTION:\
 Select the "Random Play" option to test letter-sound knowledge and speed! Play the sound and tap on the corresponding letter. 
 
-If the correct letter is selected within 10 seconds, it will be highlighted and a bell sound will play. 
-
-If the wrong letter is selected, red will appear around the edges and no sound will play. This will continue with each wrong letter selection until the time limit has expired. Then the correct letter will be highlighted and the sound will play.  
+* If the correct letter is selected within 10 seconds, it will be highlighted and a bell sound will play. 
+* If the wrong letter is selected, red will appear around its edges and no sound will play. This will continue with each wrong letter selection until the time limit has expired. Then the correct letter will fill the screen with the option to "Play the Sound" for more practice. (This will also occur if no selection is made.)
 
 - - -
 
