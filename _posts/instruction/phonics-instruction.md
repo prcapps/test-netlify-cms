@@ -3,23 +3,25 @@ layout: blog
 id: 3
 title: Secret Stories® Phonics
 ---
-*Secret Stories® explain the sounds letters make when they get together, with pictures to help kids remember for reading and writing. The more Secrets kids know, the more words they can read and write!*  
+***Secret Stories® explain the sounds letters make when they get together, with pictures to help kids remember for reading and writing. The more Secrets kids know, the more words they can read and write!***  
 
-*Kids can play through the "secret" stories and sounds for fun on their own, as well as use them strategically to read and spell words, when needed.*
+Kids can listen stories and sounds on their own (as they would with any story), as well as use them strategically to read and spell words, as needed.
 
-*(For younger kids, you can even tell them that these are "grown-up reading and writing Secrets," and that they have to be "big enough" to learn them—which only makes kids want them more!)*
+For younger kids, you can even tell them know that these are "grown-up" reading and writing SECRETS, and they have to be "big enough" in order to learn them (which only makes kids want them more!)
 
-*Note: Remember NOT to wait for individual letter sound mastery (with the Better Alphabet™ Song) before beginning the with Secrets, as they are best learned simultaneously! Understanding that letters don't always make the sounds that they should, but that there are grown-up reading and writing "secrets" that explain WHY, aligns with the brain's "need to know" and actually makes it easier to learn both. It also helps to fast-track MORE of the "code" they NEED to read and write, sooner!*
+Note: Remember NOT to wait for individual letter sound mastery (with the Better Alphabet™ Song) before starting with the Secrets, as they are best learned simultaneously! Knowing that there are grown, up reading and writing "secrets" that explain why letters don't always make the sounds that they should actually makes it easier for kids to learn both. This also helps satisfy the brain's need to know, and fast-track more of the "code" kids NEED to read and write!
 
 ***Getting Started***\
-Tap on any Secret Story phonics pattern to access the "Play Story" and "Play Sound" buttons.
+Tap on a Secret Story to access the "Play Story" and "Play Sound" buttons.
 
 * PLAY STORY BUTTON\
   Select the "Play Story" button to listen to the story that explains the sound.  
 * PLAY SOUND BUTTON\
-  Select the "Play Sound" button to play the sound.
+  Select the "Play Sound" button to listen to the phonics sound 
 * RANDOM PLAY OPTION:\
-  Select the "Random Play" option to hear random stories/sounds and identify the corresponding Secret phonics pattern. If the correct is selected within 10 seconds, it will "glow and grow" and a bell sound play. If the wrong one is selected, nothing will happen until the time limit has expired, and then the correct one will "glow and grow" and the correct sound story will be played. (The same will occur if no letter is selected.)  
+  Select the "Random Play" option to play random stories OR sounds and identify the corresponding Secret. If the correct Secret is selected within 10 seconds, it will be highlighted and a bell sound will play. 
+
+  If the wrong one is selected, nothing will happen until the time limit has expired, and then the correct one will "glow and grow" and the correct sound story will be played. (The same will occur if no letter is selected.)  
 
 ***Transforming Tricky Phonics Skills Into Child's Play***\
 Kids love listening to the Secret Stories® and mimicking their sounds, and then re-telling them over and over again. It's fine (and even encouraged!) for kids to retell the stories in their own way, as  long as it leads them to the correct sound. 
@@ -39,7 +41,7 @@ For example, in the word /this/, the letter /t/ isn't making the sound that it s
 * *Using Secrets to Write/Spell*\
   In the same way that the Secrets help kids read words, they also help them write and spell. For example, when saying the word, "this," ask if they hear any Secret sounds in it? They should notice their tongue sticking out at the beginning of the word. Then they can refer back to the Secret Story pictures and find the letters that make that sound. Once they do, they can use those letters to spell the word. (If there is more than one option for the sound, like with er/ir/ur, for example, it's  normal for beginning and/or inexperienced readers to randomly use any one of the three, given their lack of text experience. This is normal, though as they read more, which they can now do with the Secrets, this will help to "fine-tune" their spelling choices! If you have the Secret Stories® Kit, you can read more about this in your book.)
 
-***You will notice that kids are constantly referring back to the Secrets, as they are their "lifeline" for both reading and writing! This is one of the reasons this app is best used WITH the [](https://www.thesecretstories.com/buy/)[Secret Stories® Classroom or Home Kit.](https://www.thesecretstories.com/buy/)***
+***You will notice that kids are constantly referring back to the Secrets, as they are their "lifeline" for both reading and writing! This is one of the reasons this app is best used WITH the*** [](https://www.thesecretstories.com/buy/)***[Secret Stories® Classroom or Home Kit.](https://www.thesecretstories.com/buy/)***
 
 ***For Parents...***\
 It's incredibly helpful to have the Secret Stories® cards with the sound graphics for easy visual access and constant display, which are included in the [Home/Parent Kit.](https://www.thesecretstories.com/product/parent-resource-homeschool-kit/) This not only provides for quick reference for reading and writing, but also helps to increase recognition of the phonics patterns in text, as they are constantly visible and used. The Secret Stories® Book is also extremely helpful when working with your child at home, as it explains everything about the Secrets and how to teach them, including what to do when a Secret doesn't work (which is actually the most FUN part for kids, as they get to be "Word Doctors!") The Home/Parent Kit also includes the Brainteaser Blending Songs download to help minimize reliance on the sound pictures and speed up sound-skill retrieval for reading and writing. 
