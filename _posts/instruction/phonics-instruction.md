@@ -39,11 +39,11 @@ For example, in the word /this/, the letter /t/ isn't making the sound that it s
 * *Using Secrets to Write/Spell*\
   In the same way that the Secrets help kids read words, they also help them write and spell. For example, when saying the word, "this," ask if they hear any Secret sounds in it? They should notice their tongue sticking out at the beginning of the word. Then they can refer back to the Secret Story pictures and find the letters that make that sound. Once they do, they can use those letters to spell the word. (If there is more than one option for the sound, like with er/ir/ur, for example, it's  normal for beginning and/or inexperienced readers to randomly use any one of the three, given their lack of text experience. This is normal, though as they read more, which they can now do with the Secrets, this will help to "fine-tune" their spelling choices! If you have the Secret Stories® Kit, you can read more about this in your book.)
 
-*Whether for reading OR writing, kids will constantly refer back to the Secrets visuals, as they become their "lifeline" for both!*
-
-*reading and writing. For this reason, the app is most effective when used with the Secret Stories® Kit, which includes the posters and/or cards for easy and constant visual access (as well as the Secret Stories® book and musical blending song download for comprehensive instruction).*
+*You will notice that kids are constantly referring back to the Secrets, as they are their "lifeline" for both reading and writing! This is one of the reasons that this app is best used WITH the [Secret Stories® Kit](https://www.thesecretstories.com/buy/), as it includes the posters (and/or card visuals) for display—providing the constant visual access kids need for most effective use of the Secrets. The kit also includes the Secret Stories® Book, which is necessary for [Secret Stories® instruction ](https://www.thesecretstories.com/)and comprehensive use (particularly in the classroom), as well as the Brainteaser Blending Songs download to speed-up "sound-symbol" retrieval for reading and writing.* 
 
 - - -
+
+![Secret Stories® Classroom Kit - Decorative Squares](/uploads/secret-stories-classroom-pic.jpeg "Secret Stories® Classroom Kit - Decorative Squares")
 
 ***For most effective use, this APP should be used with the [Secret Stories Kit (book, posters & musical brainteasers download).](https://www.thesecretstories.com/buy/)***
 
