@@ -3,36 +3,44 @@ layout: blog
 id: 3
 title: Secret Stories® Phonics
 ---
-##### ***Strengthening "Sound-Symbol" Connections in the Brain***
-
 *Secret Stories® explain the sounds letters make when they get together, with pictures to help kids remember for reading and writing. The more Secrets kids know, the more words they can read and write!* 
 
-*Remember, these are "grown-up" reading and writing SECRETS, so be sure to let kids know that they have to be "big enough" to hear them! (This only makes them want them MORE!)* 
+*But remember, these are "grown-up" reading and writing SECRETS, so be sure to let kids know that they have to be "big enough" to hear them! (This only makes them want them MORE!)* 
 
-*Kids can listen to the Secret Stories® and play the sounds on their own, or you can use them strategically, as needed to help them understand how to read and spell words.* 
+*Kids can listen to stories and play their sounds independently, as well as use them strategically to read and spell words.* 
 
-TO READ & SPELL WORDS\
-In the word /this/, the letter /t/ isn't making the sound that it should, which means telling kids that "there must be a Secret in it!"
+*Note: Do not wait for individual letter sound mastery to start sharing Secrets! The Secrets are best shared simultaneously with the individual letter sounds (via the Better Alphabet™ Song), as they help kids understand WHY the often don't make the sounds that they should. This aligns with the brain's "need to know" and actually makes it easier for kids learn both. It also serves to fast-track access to MORE of the "code" they need to read and write!*
 
-* *To Read*\
-  *Kids need to know the Secret about /th/ in order to read the word "this," as well as lots of other words, like: "this, them, that," etc. If they can't read it, ask them if they see any Secrets in it, and encourage them to refer back to the Secret Stories® pictures to find the letters and recall their sound/sounds. You can also ask them to retell the story, and if they can't remember, just click on "PLAY STORY" so they can listen.*
-* *To Write/Spell*\
-  In the same way that Secrets help kids read, they can also be used to help them spell/write words. When trying to sound-out the word "this," ask if they hear any Secret sounds in it? They will notice their tongue sticking out, and should be able to find the corresponding Secret showing letters doing the same. Then they can copy those letters down on their paper.
+**INDEPENDENT PLAY**\
+To access the "Play Story" and "Play Sound" buttons, just tap on any Secret Story phonics pattern. 
 
-You will notice that kids refer back to the Secrets constantly, not just to "play" with them, but to use as a lifeline *whenever* and *wherever* they are reading and writing. For this reason, the app is most effective when used WITH the Secret Stories® Kit, which includes sound posters and/or cards for constant visual access, as well as the book and brain-teaser blending songs for deepening skill-ownership.
+PLAY STORY OPTION\
+Select the "Play Story" option to listen to the story that explains the sound.  
+
+PLAY SOUND OPTION\
+Select the "Play Sound" option to play the sound.
+
+Allow kids to explore freely and play the stories and sounds, as desired. They love listening to the stories over and over again as they mimic their sounds. They also love to tell and retell the stories in their own way! (As long as "their story" ends with the correct sound, it's fine!) 
 
 
-
-**TAP A SECRET TO PLAY THE STORY & HEAR THE SOUND**\
-Tap on any phonics Secret to enlarge the picture and play the story OR hear the sound. 
-
-While kids can freely play with the STORY/SOUND options, they can also use them
 
   to play the Secret Stories® and listen to their sounds, as desired.  
 
 and  for to see the "Play Story" option,  hear the secret story about the "Play Story" option button to sing through all of the letters and sounds with the Better Alphabet™ Song. *Sing it twice a day, every day, for two weeks to two months* for fast mastery of all the individual letters and sounds! There are two very important things for kids to keep in mind when singing this song:
 
 
+
+
+
+**USING SECRETS TO READ, WRITE & SPELL**\
+The Secret Stories® aren't just fun, they're tools! In the word /this/, the letter /t/ isn't making the sound that it should, which means telling kids that "there must be a Secret in it!"
+
+* *To Read*\
+  *Kids need to know the Secret about /th/ in order to read the word "this," as well as lots of other words, like: "this, them, that," etc. If they can't read it, ask them if they see any Secrets in it, and encourage them to refer back to the Secret Stories® pictures to find the letters and recall their sound/sounds. You can also ask them to retell the story, and if they can't remember, just click on "PLAY STORY" so they can listen.*
+* *To Write/Spell*\
+  In the same way that Secrets help kids read, they can also be used to help them spell/write words. When trying to sound-out the word "this," ask if they hear any Secret sounds in it? They will notice their tongue sticking out, and should be able to find the corresponding Secret showing letters doing the same. Then they can copy those letters down on their paper.
+
+*You will notice kids referring back to the Secrets constantly, as they quickly become their lifeline for reading and writing. For this reason, the app is most effective when used with the Secret Stories® Kit, which includes the posters and/or cards for easy and constant visual access (as well as the Secret Stories® book and musical blending song download for comprehensive instruction).*
 
 
 
@@ -46,7 +54,7 @@ Select the "Play Song" option button to sing through all of the letters and soun
 2. *Muscle Mouth*\
    Equally important when singing is using your “muscle mouth,” which means telling kids to really “work their lips, tongue and teeth” by over exaggerating the sounds. Tell kids that this is the only way to make sure that their mouth muscles are strong enough to “capture and keep” all of the sounds! This over-exaggeration when singing helps to cement the sounds into muscle memory for easy, non-conscious retrieval. (If you have the [Secret Stories®](https://www.thesecretstories.com/) Kit, you can read more about this in the book. You can also find printable versions of the Better Alphabet anchors for both [individual](https://www.teacherspayteachers.com/Product/Secret-Stories-Better-Alphabet-Phonics-Mats-Individual-Use-Distance-Learning-1727516) and [classroom](https://www.teacherspayteachers.com/Product/Secret-Stories-Better-Alphabet-Anchors-for-Letter-Sounds-Phonics-Instruction-1152292) use, as well as the song [video](https://www.teacherspayteachers.com/Product/Secret-Stories-Better-Alphabet-Song-Video-for-FAST-Letters-Sound-Mastery-5953615).)
 
-![Better Alphabet™ Eye Glue and Muscle Mouth](blob:https://secretstoriesadmin.prcapps.com/6858a0bd-cb5c-401e-b362-fecba770137b "Better Alphabet™ Eye Glue and Muscle Mouth")
+
 
 PLAY SOUND OPTION:\
 Tap on any letter to hear the letter name and sound.
@@ -59,5 +67,3 @@ Select the "Random Play" option to play random letter sounds and then tap on cor
 ***For most effective use, this APP should be used with the [Secret Stories Kit (book, posters & musical brainteasers download).](https://www.thesecretstories.com/buy/)***
 
 ***Lear more Secrets at [www.TheSecretStories.com](https://www.thesecretstories.com/).***
-
-![Secret Stories Phonics Kit](blob:https://secretstoriesadmin.prcapps.com/cd669f12-e4eb-47e9-a666-3ab8372041f9)
