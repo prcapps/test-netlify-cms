@@ -19,8 +19,6 @@ Select this option to learn the "secret" sounds that letters make when they get 
 
 - - -
 
-***This app is best used in-conjunction with the Secret Stories® Kit (book, posters/cards, blending song download). Learn more [here](https://www.thesecretstories.com/buy/), or visit [www.TheSecretStories.com.](https://www.TheSecretStories.com)***
-
- 
+***This app is best used in-conjunction with the [Secret Stories® Kit (book, posters/cards, blending song download).](https://www.thesecretstories.com/buy/)***  
 
 ![Secret Stories Phonics Classroom](/uploads/secret-stories-phonics-posters-and-book.001.jpeg "phonics classroom pic - need to be protected")
