@@ -21,7 +21,7 @@ PLAY SOUND OPTION:\
 Tap on any letter to hear the letter name and sound. 
 
 RANDOM PLAY OPTION:\
-Select the "Random Play" option to play random letter sounds and then tap on corresponding letter. If the correct letter is selected within 5 second, it will "glow and grow" and a bell sound play. If the wrong letter/letters are selected, nothing will happen until the 5 second time limit has expired, and then the correct letter will "glow and grow" and the correct sound will be played. (The same will occur if no letter is selected.)  
+Select the "Random Play" option to test letter-sound knowledge and speed!  Listen to the sounds and tap the corresponding letter. If the correct letter is selected within 5 second, it will "glow and grow" and a bell sound play. If the wrong letter/letters are selected, nothing will happen until the 5 second time limit has expired, and then the correct letter will "glow and grow" and the correct sound will be played. (The same will occur if no letter is selected.)  
 
 - - -
 
