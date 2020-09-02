@@ -11,35 +11,37 @@ title: Secret Stories® Phonics
 
 *Note: Remember NOT to wait for individual letter sound mastery (with the Better Alphabet™ Song) before beginning the with Secrets, as they are best learned simultaneously! Understanding that letters don't always make the sounds that they should, but that there are grown-up reading and writing "secrets" that explain WHY, aligns with the brain's "need to know" and actually makes it easier to learn both. It also helps to fast-track MORE of the "code" they NEED to read and write, sooner!*
 
-TO START\
+***Getting Started***\
 Tap on any Secret Story phonics pattern to access the "Play Story" and "Play Sound" buttons.
 
 * PLAY STORY BUTTON\
   Select the "Play Story" button to listen to the story that explains the sound.  
 * PLAY SOUND BUTTON\
   Select the "Play Sound" button to play the sound.
+* RANDOM PLAY OPTION:\
+  Select the "Random Play" option to hear random stories/sounds and identify the corresponding Secret phonics pattern. If the correct is selected within 10 seconds, it will "glow and grow" and a bell sound play. If the wrong one is selected, nothing will happen until the time limit has expired, and then the correct one will "glow and grow" and the correct sound story will be played. (The same will occur if no letter is selected.)  
 
-***Transforming hard phonics skills into child's play...***\
-Kids love listening to the Secret Stories® and mimicking their sounds, and then re-telling them over and over again. Encourage them "role play" and do what the letters are doing, as each Secret has an associated action that leads to its sound. For example, lete kids pretend to drive a car and slam on the brakes while screeching, *"ERRRRR!"* (like ER/IR/UR), or be bratty and stick their tongue while saying *"THHHHH!"* (like TH). This helps to cement the sounds in the body, a well as the brain! 
+***Transforming Tricky Phonics Skills Into Child's Play***\
+Kids love listening to the Secret Stories® and mimicking their sounds, and then re-telling them over and over again. It's fine (and even encouraged!) for kids to retell the stories in their own way, as  long as it leads them to the correct sound. 
+
+Encourage them "role play" and do what the letters are doing, as each Secret has an associated action that leads to its sound. For example, lete kids pretend to drive a car and slam on the brakes while screeching, *"ERRRRR!"* (like er/ir/ur), or be bratty and stick their tongue while saying *"THHHHH!"* (like /th/). This helps to cement the sounds in the body, a well as the brain! 
 
 Think "SEE it, SAY it, DO it!" Incorporate the movement, while making the sound, and looking at the visual. This helps to forge deep learning connections in the brain and prompts easier, non-conscious skill retrieval for both reading and writing.
 
+***Using Secrets to Read & Write*** \
+The Secrets aren't just fun, they are also the "tools" that kids need to read and write!
 
+For example, in the word /this/, the letter /t/ isn't making the sound that it should, which means telling kids, *"There must be a Secret in it!"*
 
-to They also love to tell and retell the stories in their own way! (As long as "their story" ends with the correct sound, it's fine!) 
+* *Using Secrets to Read*\
+  Kids need to know the /th/ Secret in order to understand WHY the /t/ isn't making the sound it should (like in turtle or Tom). \
+  If they can't read it, ask if they see a Secret in it, and encourage them to look at the Secret Stories® pictures, if needed. This will help them to identify the Secret letters and their sound/sounds. Then they can sound-out the word. It is also helpful for them to retell the story, just to solidify ownership of both. (And if they can't remember, they can just click on the "PLAY STORY" button to hear it.)
+* *Using Secrets to Write/Spell*\
+  In the same way that the Secrets help kids read words, they also help them write and spell. For example, when saying the word, "this," ask if they hear any Secret sounds in it? They should notice their tongue sticking out at the beginning of the word. Then they can refer back to the Secret Story pictures and find the letters that make that sound. Once they do, they can use those letters to spell the word. (If there is more than one option for the sound, like with er/ir/ur, for example, it's  normal for beginning and/or inexperienced readers to randomly use any one of the three, given their lack of text experience. This is normal, though as they read more, which they can now do with the Secrets, this will help to "fine-tune" their spelling choices! If you have the Secret Stories® Kit, you can read more about this in your book.)
 
-RANDOM PLAY OPTION:\
-Select the "Random Play" option to play random stories and sounds, and then tap on the corresponding letter. If the correct letter is selected within 5 second, it will "glow and grow" and a bell sound play. If the wrong letter/letters are selected, nothing will happen until the 5 second time limit has expired, and then the correct letter will "glow and grow" and the correct sound will be played. (The same will occur if no letter is selected.)  
+*Whether for reading OR writing, kids will constantly refer back to the Secrets visuals, as they become their "lifeline" for both!*
 
-**USING SECRETS TO READ, WRITE & SPELL**\
-The Secret Stories® aren't just fun, they're tools! In the word /this/, the letter /t/ isn't making the sound that it should, which means telling kids that "there must be a Secret in it!"
-
-* *To Read*\
-  *Kids need to know the Secret about /th/ in order to read the word "this," as well as lots of other words, like: "this, them, that," etc. If they can't read it, ask them if they see any Secrets in it, and encourage them to refer back to the Secret Stories® pictures to find the letters and recall their sound/sounds. You can also ask them to retell the story, and if they can't remember, just click on "PLAY STORY" so they can listen.*
-* *To Write/Spell*\
-  In the same way that Secrets help kids read, they can also be used to help them spell/write words. When trying to sound-out the word "this," ask if they hear any Secret sounds in it? They will notice their tongue sticking out, and should be able to find the corresponding Secret showing letters doing the same. Then they can copy those letters down on their paper.
-
-*You will notice kids referring back to the Secrets constantly, as they quickly become their lifeline for reading and writing. For this reason, the app is most effective when used with the Secret Stories® Kit, which includes the posters and/or cards for easy and constant visual access (as well as the Secret Stories® book and musical blending song download for comprehensive instruction).*
+*reading and writing. For this reason, the app is most effective when used with the Secret Stories® Kit, which includes the posters and/or cards for easy and constant visual access (as well as the Secret Stories® book and musical blending song download for comprehensive instruction).*
 
 - - -
 
