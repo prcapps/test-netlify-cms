@@ -3,15 +3,9 @@ layout: blog
 id: 2
 title: "The Better Alphabet™ "
 ---
-
-
-
-
-
-
 ##### ***Strengthening "Sound-Symbol" Connections in the Brain***
 
-*The Better Alphabet™ Song strengthens the critical connections between the sounds letters make and the symbols that represent them. It uses music to engage muscle memory and help build strength, stamina and speed for reading and writing. (Note: Kids who already know the individual letters and sounds can skip the Better Alphabet™.)*
+*The Better Alphabet™ Song strengthens the critical connections between the sounds letters make and the symbols that represent them. It uses music to engage muscle memory and help build strength, stamina and speed for reading and writing.* **Note: Kids who already know the individual letters and sounds can skip the Better Alphabet™.)**
 
 PLAY SONG OPTION:\
 Select the "Play Song" option button to sing through all of the letters and sounds with the Better Alphabet™ Song. *Sing it twice a day, every day, for two weeks to two months* for fast mastery of all the individual letters and sounds! There are two very important things for kids to keep in mind when singing this song:
@@ -27,17 +21,17 @@ PLAY SOUND OPTION:\
 Tap on any letter to hear the letter name and sound. 
 
 RANDOM PLAY OPTION:\
-Select the "Random Play" option to test letter-sound knowledge and speed! Play the sound and tap on the corresponding letter. If the correct letter is selected within 10 seconds, it will "glow and grow" and a bell sound play. If the wrong letter is selected, no sound will be heard until the time limit has expired, and then the correct letter will "glow and grow" and the the sound will be played. (The same will occur if no letter is selected.)  
+Select the "Random Play" option to test letter-sound knowledge and speed! Play the sound and tap on the corresponding letter. 
+
+If the correct letter is selected within 10 seconds, it will be highlighted and a bell sound will play. 
+
+If the wrong letter is selected, red will appear around the edges and no sound will play. This will continue with each wrong letter selection until the time limit has expired. Then the correct letter will be highlighted and the sound will play.  
 
 - - -
 
 ***Check out the [Better Alphabet™ Song Videos](https://www.teacherspayteachers.com/Product/Secret-Stories-Better-Alphabet-Song-Video-for-FAST-Letters-Sound-Mastery-5953615)  for easy use in distance learning lessons and student home practice, as well as Better Alphabet™ [Anchor Posters for the Classroom](https://www.teacherspayteachers.com/Product/Secret-Stories-Better-Alphabet-Anchors-for-Letter-Sounds-Phonics-Instruction-1152292) and for [individual student/home](https://www.teacherspayteachers.com/Product/Secret-Stories-Better-Alphabet-Phonics-Mats-Individual-Use-Distance-Learning-1727516) use.***
 
 ![Better Alphabet™ Song | Secret Stories®Videos](/uploads/secret-stories-better-alphabt-song-video.jpg "Better Alphabet Song Video")
-
-
-
-
 
 ![Better Alphabet™ Class Anchors | Secret Stories®](/uploads/better-alphabet-class-anchor-posters.jpg "Better Alphabet Class Anchors")
 
