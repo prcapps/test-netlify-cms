@@ -21,7 +21,7 @@ Tap on a Secret Story to access the "Play Story" and "Play Sound" buttons.
 * RANDOM PLAY OPTION:\
   Select the "Random Play" option to play random stories OR sounds and identify the corresponding Secret. If the correct Secret is selected within 10 seconds, it will be highlighted and a bell sound will play. 
 
-  If the wrong one is selected, nothing will happen until the time limit has expired, and then the correct one will "glow and grow" and the correct sound story will be played. (The same will occur if no letter is selected.)  
+  If the wrong letter is selected, red will appear around its edges and no sound will play. This will continue with each wrong letter selection until the time limit has expired. Then the correct letter will fill the screen with the option to "Play the Sound" or "Play the Story" for more practice. (This will also occur if no selection is made.)
 
 ***Transforming Tricky Phonics Skills Into Child's Play***\
 Kids love listening to the Secret Stories® and mimicking their sounds, and then re-telling them over and over again. It's fine (and even encouraged!) for kids to retell the stories in their own way, as  long as it leads them to the correct sound. 
