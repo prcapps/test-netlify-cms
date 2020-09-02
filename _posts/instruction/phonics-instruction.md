@@ -5,11 +5,9 @@ title: Secret Stories® Phonics
 ---
 *Secret Stories® explain the sounds letters make when they get together, with pictures to help kids remember for reading and writing. The more Secrets kids know, the more words they can read and write!* 
 
-*But remember, these are "grown-up" reading and writing SECRETS, so be sure to let kids know that they have to be "big enough" to hear them! (This only makes them want them MORE!)* 
+*Kids can play through the "secret" stories and sounds for fun on their own, as well as use them strategically to read and spell words, when needed.*
 
-*Kids can listen to stories and play their sounds independently, as well as use them strategically to read and spell words.* 
-
-*Note: Do not wait for individual letter sound mastery to start sharing Secrets! The Secrets are best shared simultaneously with the individual letter sounds (via the Better Alphabet™ Song), as they help kids understand WHY the often don't make the sounds that they should. This aligns with the brain's "need to know" and actually makes it easier for kids learn both. It also serves to fast-track access to MORE of the "code" they need to read and write!*
+*Note: Remember NOT to wait for individual letter sound mastery (with the Better Alphabet™ Song) before beginning the with Secrets, as they are best learned simultaneously! Understanding that letters don't always make the sounds that they should, but that there are grown-up reading and writing "secrets" that explain WHY, aligns with the brain's "need to know" and actually makes it easier to learn both. It also helps to fast-track MORE of the "code" they NEED to read and write, sooner!*
 
 **INDEPENDENT PLAY**\
 To access the "Play Story" and "Play Sound" buttons, just tap on any Secret Story phonics pattern. 
