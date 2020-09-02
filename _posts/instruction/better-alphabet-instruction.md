@@ -5,7 +5,7 @@ title: "The Better Alphabet™ "
 ---
 ##### ***Strengthening "Sound-Symbol" Connections in the Brain***
 
-*The Better Alphabet™ Song strengthens the critical connections between the sounds letters make and the symbols that represent them. It uses music to engage muscle memory and help build strength, stamina and speed for reading and writing.*
+*The Better Alphabet™ Song strengthens the critical connections between the sounds letters make and the symbols that represent them. It uses music to engage muscle memory and help build strength, stamina and speed for reading and writing. (Note: Kids who already know the individual letters and sounds can skip the Better Alphabet™.)*
 
 PLAY SONG OPTION:\
 Select the "Play Song" option button to sing through all of the letters and sounds with the Better Alphabet™ Song. *Sing it twice a day, every day, for two weeks to two months* for fast mastery of all the individual letters and sounds! There are two very important things for kids to keep in mind when singing this song:
@@ -25,7 +25,7 @@ Select the "Random Play" option to test letter-sound knowledge and speed! Play t
 
 - - -
 
-***Check out the Better Alphabet™ Song Videos (with a second version by Jack Hartmann!) for distance learning lessons and student home practice, as well as the Better Alphabet™ Anchor Posters (for the Classroom and home use!)***
+***Check out the Better Alphabet™ Song Videos for easy use in distance learning lessons and student home practice, as well as Better Alphabet™ Anchor Posters for the Classroom and for individual student/home use .***
 
 
 
