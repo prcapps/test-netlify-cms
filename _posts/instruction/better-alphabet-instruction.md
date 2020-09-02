@@ -42,3 +42,5 @@ Select the "Random Play" option to test letter-sound knowledge and speed! Play t
 ![Better Alphabet™ Class Anchors | Secret Stories®](/uploads/better-alphabet-class-anchor-posters.jpg "Better Alphabet Class Anchors")
 
 ![Better Alphabet Mini-Mats | Secret Stories®](/uploads/better-alphabet-mini-mat.jpg "Beter ALphabet Mini Mats")
+
+***Learn more at [www.TheSecretStories.com.](https://www.TheSecretStories.com)***
