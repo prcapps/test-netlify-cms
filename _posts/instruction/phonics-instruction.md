@@ -22,11 +22,8 @@ Select the "Play Sound" option to play the sound.
 
 Allow kids to explore freely and play the stories and sounds, as desired. They love listening to the stories over and over again as they mimic their sounds. They also love to tell and retell the stories in their own way! (As long as "their story" ends with the correct sound, it's fine!) 
 
-RANDOM PLAY OPTION
-
-
-
-
+RANDOM PLAY OPTION:\
+Select the "Random Play" option to play random stories and sounds, and then tap on the corresponding letter. If the correct letter is selected within 5 second, it will "glow and grow" and a bell sound play. If the wrong letter/letters are selected, nothing will happen until the 5 second time limit has expired, and then the correct letter will "glow and grow" and the correct sound will be played. (The same will occur if no letter is selected.)  
 
 **USING SECRETS TO READ, WRITE & SPELL**\
 The Secret Stories® aren't just fun, they're tools! In the word /this/, the letter /t/ isn't making the sound that it should, which means telling kids that "there must be a Secret in it!"
@@ -37,10 +34,6 @@ The Secret Stories® aren't just fun, they're tools! In the word /this/, the let
   In the same way that Secrets help kids read, they can also be used to help them spell/write words. When trying to sound-out the word "this," ask if they hear any Secret sounds in it? They will notice their tongue sticking out, and should be able to find the corresponding Secret showing letters doing the same. Then they can copy those letters down on their paper.
 
 *You will notice kids referring back to the Secrets constantly, as they quickly become their lifeline for reading and writing. For this reason, the app is most effective when used with the Secret Stories® Kit, which includes the posters and/or cards for easy and constant visual access (as well as the Secret Stories® book and musical blending song download for comprehensive instruction).*
-
-
-
-
 
 - - -
 
