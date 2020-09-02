@@ -3,6 +3,12 @@ layout: blog
 id: 2
 title: "The Better Alphabet™ "
 ---
+
+
+
+
+
+
 ##### ***Strengthening "Sound-Symbol" Connections in the Brain***
 
 *The Better Alphabet™ Song strengthens the critical connections between the sounds letters make and the symbols that represent them. It uses music to engage muscle memory and help build strength, stamina and speed for reading and writing. (Note: Kids who already know the individual letters and sounds can skip the Better Alphabet™.)*
@@ -25,7 +31,7 @@ Select the "Random Play" option to test letter-sound knowledge and speed! Play t
 
 - - -
 
-***Check out the [Better Alphabet™ Song Videos](https://www.teacherspayteachers.com/Product/Secret-Stories-Better-Alphabet-Song-Video-for-FAST-Letters-Sound-Mastery-5953615)  for easy use in distance learning lessons and student home practice, as well as Better Alphabet™ [Anchor Posters for the Classroom](https://www.teacherspayteachers.com/Product/Secret-Stories-Better-Alphabet-Anchors-for-Letter-Sounds-Phonics-Instruction-1152292) and for individual student/home use.***
+***Check out the [Better Alphabet™ Song Videos](https://www.teacherspayteachers.com/Product/Secret-Stories-Better-Alphabet-Song-Video-for-FAST-Letters-Sound-Mastery-5953615)  for easy use in distance learning lessons and student home practice, as well as Better Alphabet™ [Anchor Posters for the Classroom](https://www.teacherspayteachers.com/Product/Secret-Stories-Better-Alphabet-Anchors-for-Letter-Sounds-Phonics-Instruction-1152292) and for [individual student/home](https://www.teacherspayteachers.com/Product/Secret-Stories-Better-Alphabet-Phonics-Mats-Individual-Use-Distance-Learning-1727516) use.***
 
 ![Better Alphabet™ Song | Secret Stories®Videos](/uploads/secret-stories-better-alphabt-song-video.jpg "Better Alphabet Song Video")
 
@@ -34,3 +40,5 @@ Select the "Random Play" option to test letter-sound knowledge and speed! Play t
 
 
 ![Better Alphabet™ Class Anchors | Secret Stories®](/uploads/better-alphabet-class-anchor-posters.jpg "Better Alphabet Class Anchors")
+
+![Better Alphabet Mini-Mats | Secret Stories®](/uploads/better-alphabet-mini-mat.jpg "Beter ALphabet Mini Mats")
