@@ -25,8 +25,8 @@ Select the "Random Play" option to test letter-sound knowledge and speed! Play t
 
 - - -
 
-***For most effective use, this APP should be used with the [Secret Stories Kit (book, posters & musical brainteasers download).](https://www.thesecretstories.com/buy/)***  
+***Check out the Better Alphabet™ Song Videos (with a second version by Jack Hartmann!) for distance learning lessons and student home practice, as well as the Better Alphabet™ Anchor Posters (for the Classroom and home use!)***
 
-***Lear more Secrets at [www.TheSecretStories.com](https://www.TheSecretStories.com).***
 
-![Secret Stories Phonics Kit](/uploads/9ba19e24-08e9-4eaf-8779-abc2925ad69d.jpg)
+
+![]()
