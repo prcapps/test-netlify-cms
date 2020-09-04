@@ -7,7 +7,7 @@ title: Main Menu Instruction
 
 Kids who ALREADY know the individual letters and sounds can skip the Better Alphabet(TM) and jump right into Secret Stories(R) Phonics play!
 
-Kids who DON'T know the individual letters and sounds should play with BOTH the Better Alphabet® and the Secret Stories(R) Phonics, as they work best together! (Kids should sing the Better Alphabet(TM) Song twice a day, every day, for 2 weeks to 2 months (until mastered) and at the same time, start learning and playing with the Secrets! Read more about this in the instructions for each.)
+Kids who DON'T know the individual letters and sounds should play with BOTH the Better Alphabet(R) and the Secret Stories(R) Phonics, as they work best together! (Kids should sing the Better Alphabet(TM) Song twice a day, every day, for 2 weeks to 2 months (until mastered) and at the same time, start learning and playing with the Secrets! Read more about this in the instructions for each.)
 
 * BETTER ALPHABET(TM) 
 
