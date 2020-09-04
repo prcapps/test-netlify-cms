@@ -1,0 +1,10 @@
+body{ 
+	padding: 0 10px; 
+	font-family: 'Chelsea Market';
+} 
+
+img{
+	max-width: 100%; 
+	display: block; 
+	margin: 0 auto; 
+}
