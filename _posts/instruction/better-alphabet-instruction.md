@@ -3,7 +3,7 @@ layout: blog
 id: 2
 title: "The Better Alphabet(TM) "
 ---
-##### ***Strengthening "Sound-Symbol" Connections in the Brain***
+**Strengthening "Sound-Symbol" Connections in the Brain**
 
 *The Better Alphabet(TM) Song strengthens the critical connections between the sounds letters make and the symbols that represent them. It uses music to engage muscle memory and help build strength, stamina and speed for reading and writing.* **Note: Kids who already know the individual letters and sounds can skip the Better Alphabet(TM).)**
 
