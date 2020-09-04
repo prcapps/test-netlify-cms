@@ -1,7 +1,9 @@
 body{ 
 	padding: 0 10px; 
+	-webkit-text-size-adjust: none;
 	font-family: 'Chelsea Market';
 	font-size: 14px;
+
 } 
 
 img{
