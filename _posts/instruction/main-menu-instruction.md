@@ -17,9 +17,7 @@ Select this option to learn individual letters and sounds fast and strengthen th
 
 Select this option to learn the "secret" sounds that letters make when they get together, and use the sound pictures to help remember the phonics sounds and spelling for independent reading and writing! 
 
-
-- - -
-
+---
 
 ***This app is best used in-conjunction with the [Secret Stories® Kit (book, posters/cards, blending song download).](https://www.thesecretstories.com/buy/)***  
 
