@@ -17,10 +17,10 @@ Select the "Play Song" option button to sing through all of the letters and soun
 
 ![Better Alphabet(TM) Eye Glue and Muscle Mouth](/uploads/better-alphabet-eye-glue-and-muscle-mouth.jpeg "Better Alphabet(TM) Eye Glue and Muscle Mouth")
 
-PLAY SOUND OPTION:\
+PLAY SOUND OPTION:
 Tap on any letter to hear the letter name and sound. 
 
-RANDOM PLAY OPTION:\
+RANDOM PLAY OPTION:
 Select the "Random Play" option to test letter-sound knowledge and speed! Play the sound and tap on the corresponding letter. 
 
 * If the correct letter is selected within 10 seconds, it will be highlighted and a bell sound will play. 
