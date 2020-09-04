@@ -19,6 +19,6 @@ Select this option to learn the "secret" sounds that letters make when they get 
 
 - - -
 
-**This app is best used in-conjunction with the [Secret Stories(R) Kit (book, posters/cards, blending song download).](https://www.thesecretstories.com/buy/)**  
+** This app is best used in-conjunction with the [Secret Stories(R) Kit (book, posters/cards, blending song download).](https://www.thesecretstories.com/buy/) **  
 
-**Learn more Secrets at [www.TheSecretStories.com.](https://www.TheSecretStories.com)**
+** Learn more Secrets at [www.TheSecretStories.com.](https://www.TheSecretStories.com) **
