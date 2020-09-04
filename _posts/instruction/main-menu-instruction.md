@@ -3,10 +3,6 @@ layout: blog
 id: 1
 title: Main Menu Instruction
 ---
-#### **How It Works**
-
-#### ** How It Works **
-
 ** How It Works **
 
 Kids who ALREADY know the individual letters and sounds can skip the Better Alphabet(TM) and jump right into Secret Stories(R) Phonics play!
