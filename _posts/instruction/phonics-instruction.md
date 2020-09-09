@@ -56,6 +56,6 @@ Learn more about how to use the Secret Stories® for reading and writing at home
 ***For Teachers...***\
 The Secret Stories® Kit is a necessity, as students need constant visual access to ALL of the sound posters for reading and writing all day long! While this app is ideal for center play and small group learning fun and practice, it cannot provide the level of support needed for whole-class reference throughout the day. The Secret Stories® book is also critical for teachers to have and refer back to when teaching the Secrets. It includes everything needed for comprehensive instruction, from the "next most likely" sound options, to skill-based assessments, to what happens when a Secret doesn't work - which actually opens the door to the next level of Secret Stories® instruction! Additionally, the Brainteaser Blending Songs download helps to minimize student reliance on the sound posters and increase sound-symbol automaticity for reading and writing.   
 
-- - -
+---
 
 ![Secret Stories® Classroom Kit - Decorative Squares](/uploads/secret-stories-classroom-pic.jpeg "Secret Stories® Classroom Kit - Decorative Squares")
