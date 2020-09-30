@@ -26,12 +26,12 @@ Select the "Random Play" option to test letter-sound knowledge and speed! Play t
 * If the correct letter is selected within 10 seconds, it will be highlighted and a bell sound will play. 
 * If the incorrect letter is selected, red will appear around its edges and no sound will play. This will continue with each wrong selection until the time limit has expired. Then the correct letter will fill the screen with the option to "Play the Sound" for more practice. (This will also occur if no selection is made.)
 
----
+- - -
 
 ***Check out the Better Alphabet™ Song Videos for easy use in distance learning lessons and student home practice, as well as Better Alphabet™ Anchor Posters for the Classroom and for individual student/home use.***
 
 ![Better Alphabet™ Song | Secret Stories®Videos](/uploads/secret-stories-better-alphabt-song-video.jpg "Better Alphabet Song Video")
 
-![Better Alphabet™ Class Anchors | Secret Stories®](/uploads/better-alphabet-class-anchor-posters.jpg "Better Alphabet Class Anchors")
+![Better Alphabet™ Class Anchors | Secret Stories®](/uploads/better-alphabet-class-anchor-posters.jpg "Better Alphabet™ Class Anchors")
 
 ![Better Alphabet Mini-Mats | Secret Stories®](/uploads/better-alphabet-mini-mat.jpg "Beter ALphabet Mini Mats")
